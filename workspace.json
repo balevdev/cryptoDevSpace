@@ -1,0 +1,10 @@
+{
+  "name": "CryptoWorkspace",
+  "version": 2,
+  "projects": {
+    "blogpost": "apps/blogpost",
+    "blogpost-e2e": "apps/blogpost-e2e",
+    "databaselayer": "libs/rust/database-layer",
+    "rocketapi": "apps/rocket-api"
+  }
+}

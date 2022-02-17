@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "libs/rust/database-layer",
+    "apps/rocket-api"
+]
